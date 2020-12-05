@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/edit_user_profile"
+        android:title="User Profile">
+    </item>
+    <item android:id="@+id/go_to_math_activity"
+        android:title="Math Activity">
+    </item>
+    <item android:id="@+id/go_to_english_activity"
+        android:title="English Activity">
+    </item>
+    <item android:id="@+id/main_activity"
+        android:title="Main Page">
+    </item>
+    <item android:id="@+id/go_to_science_activity"
+        android:title="Science Activity">
+    </item>
+</menu>
